@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ReelsBlocker</string>
+    <string name="main_textview">Welcome to ReelsBlocker</string>
+    <string-array name="scope">
+        <item>com.instagram.android</item>
+    </string-array>
+</resources>
